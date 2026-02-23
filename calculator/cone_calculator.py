@@ -20,3 +20,12 @@ l = float(input("Enter slant height of cone: "))
 print("Curved Surface Area =", cone_csa(r, l))
 print("Total Surface Area =", cone_tsa(r, l))
 print("Volume =", cone_volume(r, h))
+
+
+# Example Output:
+# Enter radius of cone: 3
+# Enter height of cone: 4
+# Enter slant height of cone: 5
+# Curved Surface Area = 47.12388980384689
+# Total Surface Area = 75.39822368615503
+# Volume = 37.69911184307752
