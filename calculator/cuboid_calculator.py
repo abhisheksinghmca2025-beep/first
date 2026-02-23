@@ -18,3 +18,12 @@ h = float(input("Enter height of cuboid: "))
 print("Curved Surface Area =", cuboid_csa(l, w, h))
 print("Total Surface Area =", cuboid_tsa(l, w, h))
 print("Volume =", cuboid_volume(l, w, h))
+
+
+# Example Output:
+# Enter length of cuboid: 5
+# Enter width of cuboid: 4
+# Enter height of cuboid: 3
+# Curved Surface Area = 54.0
+# Total Surface Area = 94.0
+# Volume = 60.0
