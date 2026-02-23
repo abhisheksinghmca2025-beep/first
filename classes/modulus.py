@@ -11,3 +11,7 @@ remaining_students = total_students % students_per_class
 # Output
 print("Full Classes Formed:", full_classes)
 print("Students Remaining:", remaining_students)
+
+# Output:
+# Full Classes Formed: 4
+# Students Remaining: 5

@@ -17,3 +17,7 @@ balance = amount_given - total_bill
 # Output
 print("Total Bill Amount: ₹", total_bill)
 print("Remaining Balance: ₹", balance)
+
+# Output:
+# Total Bill Amount: ₹ 175
+# Remaining Balance: ₹ 325
