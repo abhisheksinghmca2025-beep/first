@@ -82,3 +82,25 @@ print("Sphere Volume =", sphere_volume(r))
 
 print("Hemisphere Surface Area =", hemisphere_surface_area(r))
 print("Hemisphere Volume =", hemisphere_volume(r))
+
+
+# Output:
+# Cube Surface Area = 96
+# Cube Volume = 64
+#
+# Cuboid Surface Area = 126
+# Cuboid Volume = 90
+#
+# Cylinder CSA = 113.09733552923255
+# Cylinder TSA = 169.64600329384882
+# Cylinder Volume = 169.64600329384882
+#
+# Cone CSA = 47.12388980384689
+# Cone TSA = 75.39822368615503
+# Cone Volume = 56.548667764616276
+#
+# Sphere Surface Area = 113.09733552923255
+# Sphere Volume = 113.09733552923254
+#
+# Hemisphere Surface Area = 84.82300164692441
+# Hemisphere Volume = 56.54866776461627
